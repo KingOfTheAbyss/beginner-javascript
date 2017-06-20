@@ -3,5 +3,7 @@ function fortuneTeller(){
 }
 
 function ageCalculator(){
+	console.log("Hello")
 
 }
++
